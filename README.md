@@ -1,4 +1,4 @@
-# Human Rights DAO nft minting site
+# React Starter Project Router, Eslint setup
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
